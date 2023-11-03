@@ -3,7 +3,7 @@
 ![Screenshot of website taken on November 3, 2023](/screenshot.png)
 
 ## Description
-A 2024 countdown website built using HTML, CSS, and JavaScript. 
+A 2024 countdown webpage built using HTML, CSS, and JavaScript. 
 
 ## Installation
 - Fork this repository
